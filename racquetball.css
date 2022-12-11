@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+div{
+    position: relative;
+    top: 100px;
+}
+a{
+    top: 0;
+    left:0;
+    position: absolute;
+}
+#can{
+    background: white;
+}
+
